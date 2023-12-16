@@ -1,6 +1,6 @@
 # rabbis-divisions
 
-A ReactJS hook to get the country information.
+A ReactJS hook to get the Bangladesh  Country  Divisions information.
 
 
 ## How to use it?

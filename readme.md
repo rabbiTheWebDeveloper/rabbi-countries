@@ -24,5 +24,5 @@ import {useDivisions} from 'rabbis-divisions';
 ```
 - Get the country information from the hook:
 ```js
-const {loading, error, country} = useDivisions('rangpur')'
+const {loading, error, divisions} = useDivisions('rangpur')
 ```

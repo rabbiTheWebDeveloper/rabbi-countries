@@ -1,6 +1,6 @@
 {
   "name": "rabbis-divisions",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "This is an NPM tp fetch you the country ",
   "type": "module",
   "main": "dist/index.js",
